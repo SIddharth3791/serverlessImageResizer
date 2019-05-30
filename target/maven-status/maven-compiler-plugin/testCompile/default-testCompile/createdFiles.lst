@@ -1,0 +1,13 @@
+com\example\sir\serverlessimageresizer\TestUtils$DynamodbEventMixin$RecordMixin.class
+com\example\sir\serverlessimageresizer\TestContext.class
+com\example\sir\serverlessimageresizer\TestUtils$TestJacksonMapperModule.class
+com\example\sir\serverlessimageresizer\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com\example\sir\serverlessimageresizer\TestContext$TestLogger.class
+com\example\sir\serverlessimageresizer\TestUtils$DateTimeSerializer.class
+com\example\sir\serverlessimageresizer\TestUtils$DateTimeDeserializer.class
+com\example\sir\serverlessimageresizer\TestUtils$DynamodbEventMixin.class
+com\example\sir\serverlessimageresizer\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com\example\sir\serverlessimageresizer\TestContext$1.class
+com\example\sir\serverlessimageresizer\TestUtils.class
+com\example\sir\serverlessimageresizer\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com\example\sir\serverlessimageresizer\TestUtils$1.class
